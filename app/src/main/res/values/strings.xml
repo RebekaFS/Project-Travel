@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Travel</string>
+    <string name="button_not_register">Not Registered? <font color='red'>Sign Up Now</font></string>
+    <string name="after_register">Already Registered? <font color='red'>Log In Now</font></string>
+    <string name="batal">Cancel</string>
+    <string name="keluar">Exit</string>
+
+    <string-array name="countries_arry">
+        <item>Pantai Losari, Makassar</item>
+        <item>Pantai Akkarena, Makassar</item>
+        <item>Benteng, Rotterdam, Makassar</item>
+        <item>Pulau Samalona, Makassar</item>
+        <item>Masjid 1000 Kubah Makassar</item>
+        <item>Pantai Lumpue, Parepare</item>
+        <item>Pantai Paputo, Parepare</item>
+        <item>Patung Habibie-Ainun, Parepare</item>
+        <item>Taman Mattirotasi, Parepare</item>
+        <item>Kebun Jompie, Parepare</item>
+        <item>Tonrangeng River Side, Parepare</item>
+        <item>Negeri Di Atas Awan, Lolai, Tanah Toraja</item>
+        <item>Patung Yesus, Tanah Toraja</item>
+        <item>Lolai, Tanah Toraja</item>
+        <item>Pantai Bunaken, Manado</item>
+        <item>Pulau Siladen, Manado</item>
+        <item>Pulau Manadotua, Manado</item>
+        <item>Pulau Togean, Palu</item>
+        <item>Pantai Tanjung Karang Donggala-Palu</item>
+        <item>Taman Vatulemo, Palu</item>
+        <item>Monumen Nosarara Nosabatutu, Palu</item>
+
+
+    </string-array>
+
+</resources>
